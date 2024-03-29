@@ -1,0 +1,46 @@
+
+.picture{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height:500px;
+    width: 100%;
+    border-radius: 10px;
+    
+
+}
+.picture img{
+    margin: 5px;
+    margin-bottom: 20px;
+    border-radius: 50px;
+    width: 95%;
+    height: 95%;
+    object-fit: cover;
+    
+}
+.picture h1{
+
+    transform:translate(0%,-100%);
+    margin-bottom: 20px;
+    
+}
+
+.procedure{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.procedure.h1{
+    font-size: small;
+}
+.instructions{
+    margin: 10px;
+    font-size: small;
+    text-align: left;
+}
+.ingredients{
+    font-size:small;
+    margin: 10px;
+    text-align: left;
+}

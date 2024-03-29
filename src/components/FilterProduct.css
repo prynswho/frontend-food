@@ -1,0 +1,25 @@
+
+.filter-area {
+    width: 300px;
+    
+    
+    margin-left: 0px;
+    justify-content: left;
+    align-items: start;
+    text-align: bottom;
+  
+    
+  }
+  
+  select{
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    margin: 30px;
+    border: none;
+    font-size: large;
+    font-weight: 100;
+    box-shadow: 5px 5px 5px 5px rgb(230, 226, 226);
+  }
+  
+  
